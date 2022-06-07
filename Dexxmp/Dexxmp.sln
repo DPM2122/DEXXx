@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexxmp", "Dexxmp.csproj", "{D644FA77-74C8-46A3-AE4C-54CEEE31D573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexxtest", "..\Dexxtest\Dexxtest.csproj", "{EF24A03D-5ABD-4389-91C8-B1CA38B87BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D644FA77-74C8-46A3-AE4C-54CEEE31D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D644FA77-74C8-46A3-AE4C-54CEEE31D573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D644FA77-74C8-46A3-AE4C-54CEEE31D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D644FA77-74C8-46A3-AE4C-54CEEE31D573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF24A03D-5ABD-4389-91C8-B1CA38B87BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF24A03D-5ABD-4389-91C8-B1CA38B87BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF24A03D-5ABD-4389-91C8-B1CA38B87BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF24A03D-5ABD-4389-91C8-B1CA38B87BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCCF9A5-EB32-46CA-9932-C70C60009569}
+	EndGlobalSection
+EndGlobal

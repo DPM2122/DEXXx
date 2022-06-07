@@ -1,0 +1,6 @@
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\obj\Debug\Dexxmp.csproj.AssemblyReference.cache
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\obj\Debug\Dexxmp.csproj.CoreCompileInputs.cache
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\bin\Debug\Dexxmp.dll
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\bin\Debug\Dexxmp.pdb
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\obj\Debug\Dexxmp.dll
+C:\Users\desmp\source\repos\DEXXx\Dexxmp\obj\Debug\Dexxmp.pdb
